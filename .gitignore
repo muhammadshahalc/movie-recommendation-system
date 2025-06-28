@@ -1,0 +1,21 @@
+# Virtual environments
+env/
+.venv/
+mrs_env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Jupyter notebooks cache
+.ipynb_checkpoints/
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Log and temp files
+*.log
+*.tmp
+
+poster_cache/

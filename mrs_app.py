@@ -2,7 +2,7 @@ import streamlit as st
 import pickle
 import requests
 import gzip
-
+st.set_page_config(layout="wide")
 
 #loading movies dataset
 movies = pickle.load(open('movies.pkl','rb'))

@@ -1,5 +1,3 @@
-#WORKING PERFECTLY
-
 import streamlit as st
 import pickle
 import requests
@@ -53,7 +51,7 @@ def recommend_top5(movie):
 st.title(" 🎥 MOVIE RECOMMENDATION SYSTEM")
 
 selected_movie = st.selectbox(
-    "Search for a movie :  ",
+    "🔍 Type a Movie to Get Recommendations : ",
     movies_title
 )
 

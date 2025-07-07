@@ -1,5 +1,7 @@
 # 🎬 Movie Recommendation System
 
+🔗 **Live Demo:** [movie-suggester.streamlit.app](https://movie-suggester.streamlit.app/)
+
 This is a simple content-based movie recommendation system built using Streamlit and TMDB API. It suggests 5 similar movies based on the selected movie and displays their posters.
 
 ### 🔧 Tech Stack
